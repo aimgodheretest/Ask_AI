@@ -1,0 +1,13 @@
+there are two types of event:
+
+1.in-built event;
+        connection,disconnected
+2.custom events;
+
+
+
+io --- server
+socket---single user
+
+on-- event listen karna 
+emit-- event fire karna client/server side
